@@ -17,6 +17,15 @@ html {
     padding: 0;
 }
 
+.titulo {
+    background-image: url(../img/banner-2.jpg);
+    height: 100vh;
+   background-size: cover;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
 .section2 {
     padding-left: 7%;
     padding-right: 7%;
