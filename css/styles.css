@@ -18,22 +18,20 @@ p {
 .titulo {
     background-image: url(../img/banner-2.jpg);
     height: 100vh;
-<<<<<<< HEAD
     background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
-=======
-   background-size: cover;
-   display: flex;
-   align-items: center;
-   justify-content: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .section2 {
     padding-left: 7%;
     padding-right: 7%;
->>>>>>> c194a7054358e0bd9720e37c2229bf1307ee08f6
+    >>>>>>>c194a7054358e0bd9720e37c2229bf1307ee08f6
 }
 
 .section1 {
